@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "ENA Outages",
+    "slug": "ena-outages-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E63946"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#E63946"
+      },
+      "package": "com.enaoutages.app"
+    },
+    "platforms": ["android"]
+  }
+}
